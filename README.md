@@ -1,2 +1,3 @@
 # Sentiment-Analysis
-sentiment analysis using rnn
+sentiment analysis using RNN
+NLP assignment 
